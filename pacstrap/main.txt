@@ -1,0 +1,13 @@
+base
+linux
+linux-firmware
+grub
+networkmanager
+pipewire-pulse
+sudo
+nano
+xorg-server
+xf86-video-nouveau
+plasma
+sddm
+kde-applications
