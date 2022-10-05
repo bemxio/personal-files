@@ -1,0 +1,15 @@
+base
+linux
+linux-firmware
+grub
+networkmanager
+pulseaudio
+sudo
+nano
+xorg-server
+xorg-drivers
+xorg-xinit
+xfce4
+xfce4-goodies
+gnu-free-fonts
+noto-fonts
