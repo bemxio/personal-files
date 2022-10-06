@@ -6,6 +6,8 @@ efibootmgr
 networkmanager
 pipewire
 pipewire-pulse
+pipewire-media-session
+pavucontrol
 sudo
 nano
 xorg-server
