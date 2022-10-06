@@ -4,7 +4,8 @@ linux-firmware
 grub
 efibootmgr
 networkmanager
-pulseaudio
+pipewire
+pipewire-pulse
 sudo
 nano
 xorg-server
