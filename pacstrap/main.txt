@@ -3,7 +3,7 @@ linux
 linux-firmware
 grub
 networkmanager
-pipewire-pulse
+pulseaudio
 sudo
 nano
 xorg-server
