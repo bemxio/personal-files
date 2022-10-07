@@ -4,13 +4,11 @@ linux-firmware
 grub
 efibootmgr
 networkmanager
-pipewire
-pipewire-pulse
-pavucontrol
+pulseaudio
 sudo
 nano
 xorg-server
 xf86-video-nouveau
-plasma
-sddm
-kde-applications
+cinnamon
+lightdm
+lightdm-slick-greeter
