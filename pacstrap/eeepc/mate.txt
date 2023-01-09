@@ -11,5 +11,7 @@ xorg-drivers
 xorg-xinit
 mate
 mate-extra
+lightdm
+lightdm-slick-greeter
 gnu-free-fonts
 noto-fonts
