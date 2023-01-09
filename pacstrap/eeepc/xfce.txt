@@ -11,5 +11,7 @@ xorg-drivers
 xorg-xinit
 xfce4
 xfce4-goodies
+lightdm
+lightdm-slick-greeter
 gnu-free-fonts
 noto-fonts
